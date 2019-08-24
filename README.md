@@ -1,4 +1,5 @@
 # CG_SysDaQuerySolution
+
 This project consists of below runnable classes using SysDaQueryObject Framework:
 CG_SysDaQueryFind              - Implementing Find method
 CG_SysDaQueryUpdate            - Updating a record using SysDaUpdateObject
